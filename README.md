@@ -15,6 +15,12 @@ An Excel healthcare analytics project covering patient recovery, treatment cost 
 | Average treatment cost | **5,052** |
 | Average age | **45** |
 
+## Excel workbook
+
+[Open the original Green Valley Excel workbook](02_excel/Green%20Valley%20Excel%20Analysis.xlsx)
+
+The repository now includes the original analysis workbook alongside the exported dashboard, so the underlying Excel project can be reviewed directly.
+
 ## Tools and skills
 
 - Microsoft Excel
